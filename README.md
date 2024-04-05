@@ -1,5 +1,5 @@
 # boltzcode
-
+![10Q_wQ](https://github.com/StrangeBoltz/boltzcode/assets/76409645/61efd674-8b27-4898-9cc2-8cf100358c95)
 ## StrangeBoltz - Dynamic Digital Designer and Game Developer
 
 Welcome to StrangeBoltz, where creativity meets technology! StrangeBoltz is a dynamic digital designer and game developer who harnesses the power of Unity game engine and AI-generated assets to bring unique ideas to life. By leveraging AI-generated assets, one can rapidly prototype ideas and create engaging experiences for players.
@@ -10,7 +10,7 @@ As a passionate advocate for the fusion of artificial intelligence and game deve
 ## Project Overview
 For StrangeBoltz, the focus is on utilizing Unity game engine to develop immersive gaming experiences. Each project combines cutting-edge AI techniques with innovative game design principles to push the boundaries of creativity. Whether it's exploring procedural generation, implementing machine learning algorithms, or experimenting with neural networks, my goal is to deliver captivating games that captivate players.
 
-![10Q_wQ](https://github.com/StrangeBoltz/boltzcode/assets/76409645/61efd674-8b27-4898-9cc2-8cf100358c95)
+
 
 ## AI-Generated Assets
 One of the key features of my projects is the integration of AI-generated assets. These assets are created using various AI methodologies, including generative adversarial networks (GANs), style transfer, and deep reinforcement learning. By incorporating AI-generated assets into my projects, I can achieve unparalleled levels of creativity and efficiency.
